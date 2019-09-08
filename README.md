@@ -1,2 +1,3 @@
-# rrg
-Red River Gorge National Geological Area
+# Red River Gorge
+
+Kentucky's Red River Gorge National Geographical Area
