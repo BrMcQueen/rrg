@@ -2,6 +2,13 @@
 
 The Red River Gorge, located in Stanton, Kentcuky, was established in 1937 and designated as a world heritage site in 1975. The National Natural Landmark is also located inside of Daniel Boone National Forest. The geological area is home to hundreds of species of plants and animals and brings in thousands of visitors and tourists a year. 
 
+## Places I would like to visit at the Gorge
+
+1. Indian Staicase
+2. Natural Bridge
+3. Grey's Arch
+4. Auxier Ridge
+
 ## Facts Revolving the Gorge
 
 1. The Gorge is home to three endangered animals and one species of endangered plant.
